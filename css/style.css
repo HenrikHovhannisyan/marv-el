@@ -51,3 +51,9 @@ a {
 .owl-nav {
     display: none;
 }
+
+.nav-link,
+nav {
+    background-color: #AD1519;
+    color: #FABD00;
+}
